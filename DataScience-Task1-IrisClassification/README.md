@@ -63,7 +63,7 @@ jupyter notebook IrisClassification.ipynb
 
 ## 🎥 Demo video
 
-Link to the LinkedIn post: _add link here_
+Link to the LinkedIn post: https://lnkd.in/p/gmanvgF7
 
 ---
 
