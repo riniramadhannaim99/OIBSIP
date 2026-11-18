@@ -65,6 +65,10 @@ jupyter notebook IrisClassification.ipynb
 
 Link to the LinkedIn post: https://lnkd.in/p/gmanvgF7
 
+## Results
+
+![Pairplot](pairplot.png)
+![Confusion matrix](confusion_matrix.png)
 ---
 
 *#oasisinfobyte · #datascience · #python*
