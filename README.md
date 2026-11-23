@@ -8,3 +8,4 @@ Oasis Infobyte Internship Program, Data Science track.
 ## Projects
 
 - [Task 1: Iris Flower Classification](DataScience-Task1-IrisClassification/)
+- [Task 5: Sales Prediction](DataScience-Task5-SalesPredictionUsingPython/)
